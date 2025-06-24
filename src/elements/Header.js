@@ -253,7 +253,7 @@ export default function Header() {
           </Link>
         </div>
 
-        <div id="mySidenav" className="sidenav">
+        <div id="mySidenav" className="sidenav" style={{ display: "none" }}>
           <div className="login-section">
             <button
               type="button"
