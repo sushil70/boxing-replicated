@@ -165,11 +165,7 @@ export default function Header() {
     >
       <nav className="navbar navbar-expand-md bg-light navbar-light pt0 pb0 px-0">
         <div className="header-bg w-100 mhead">
-          <button
-            id="menuToggle"
-            className="low-menu"
-            style={{ display: "none" }}
-          >
+          <button id="menuToggle" className="low-menu">
             <svg className="menu-bars" viewBox="0 0 24 24">
               <path
                 fillRule="evenodd"
